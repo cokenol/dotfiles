@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ukenster@gmail.com
+	name = pang yew ken
